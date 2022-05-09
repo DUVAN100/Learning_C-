@@ -1,0 +1,2 @@
+C:\git hub\exercices-c-\arrats\excersice4-higheThanAverage\excersice4-higheThanAverage\obj\Debug\excersice4-higheThanAverage.csproj.AssemblyReference.cache
+C:\git hub\exercices-c-\arrats\excersice4-higheThanAverage\excersice4-higheThanAverage\obj\Debug\excersice4-higheThanAverage.csproj.CoreCompileInputs.cache
