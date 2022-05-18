@@ -67,16 +67,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="formulario1.aspx" />
+    <Content Include="FormCitas.aspx" />
+    <Content Include="formulario_paciente.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="formulario1.aspx.cs">
-      <DependentUpon>formulario1.aspx</DependentUpon>
+    <Compile Include="FormCitas.aspx.cs">
+      <DependentUpon>FormCitas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="formulario1.aspx.designer.cs">
-      <DependentUpon>formulario1.aspx</DependentUpon>
+    <Compile Include="FormCitas.aspx.designer.cs">
+      <DependentUpon>FormCitas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="formulario_paciente.aspx.cs">
+      <DependentUpon>formulario_paciente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="formulario_paciente.aspx.designer.cs">
+      <DependentUpon>formulario_paciente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -88,6 +96,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{f8da1897-fbe9-4aa5-8ff5-2b7735329879}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
+      <Project>{34573670-e8c9-49fe-afb1-e10229fc1141}</Project>
+      <Name>CapaNegocios</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

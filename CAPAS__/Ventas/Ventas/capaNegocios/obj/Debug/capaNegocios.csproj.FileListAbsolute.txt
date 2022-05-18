@@ -1,0 +1,11 @@
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\bin\Debug\capaNegocios.dll
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\bin\Debug\capaNegocios.pdb
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\bin\Debug\capaDatos.dll
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\bin\Debug\capaEntidad.dll
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\bin\Debug\capaDatos.pdb
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\bin\Debug\capaEntidad.pdb
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\obj\Debug\capaNegocios.csproj.AssemblyReference.cache
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\obj\Debug\capaNegocios.csproj.CoreCompileInputs.cache
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\obj\Debug\capaNegocios.csproj.CopyComplete
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\obj\Debug\capaNegocios.dll
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaNegocios\obj\Debug\capaNegocios.pdb

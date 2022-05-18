@@ -25,7 +25,7 @@ namespace CapaDatos
                 ocmd.Parameters.Add("@ref_cliente", ocliene.Ref_cliente);
                 ocmd.Parameters.Add("@nom_cliente", ocliene.Nom_cliente);
                 ocmd.Parameters.Add("@dir_clinte", ocliene.Dir_cliente);
-                ocmd.Parameters.Add("qtel_cliente", ocliene.Tell_cliente);
+                ocmd.Parameters.Add("@tel_cliente", ocliene.Tell_cliente);
                 ocmd.ExecuteNonQuery();
                 return true;
             }

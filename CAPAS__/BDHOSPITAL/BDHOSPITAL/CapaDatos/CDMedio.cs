@@ -55,6 +55,24 @@ namespace CapaDatos
                 throw new Exception(err.Message);
             }
         }
+        public bool anular_medico(CEMedico omedico)
+        {
+            try
+            {
+                ocmd.CommandType = CommandType.StoredProcedure;
+                ocmd.Connection = oconexion.conectar("BDHOSPITAL");
+                ocmd.CommandText = ("eliminar_cita");
+                ocmd.Parameters.Add("@cod_cita", ocitas.Cod_cita);
+                ocmd.ExecuteNonQuery();
+                return true;
+
+            }
+            catch (Exception err)
+            {
+
+                throw new Exception(err.Message);
+            }
+        }
         public DataSet consultar_cita(CEMedico omedico)
         {
             try

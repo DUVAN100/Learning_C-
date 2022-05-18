@@ -1,0 +1,6 @@
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaEntidad\bin\Debug\capaEntidad.dll
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaEntidad\bin\Debug\capaEntidad.pdb
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaEntidad\obj\Debug\capaEntidad.dll
+E:\GIT HUB\CESDE_C-\CAPAS__\Ventas\Ventas\capaEntidad\obj\Debug\capaEntidad.pdb

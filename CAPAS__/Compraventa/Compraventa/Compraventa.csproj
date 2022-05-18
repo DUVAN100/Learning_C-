@@ -67,16 +67,40 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="formulario1.aspx" />
+    <Content Include="FormularioCategorias.aspx" />
+    <Content Include="FormularioCliente.aspx" />
+    <Content Include="FormularioFactura.aspx" />
+    <Content Include="FormularioProductos.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="formulario1.aspx.cs">
-      <DependentUpon>formulario1.aspx</DependentUpon>
+    <Compile Include="FormularioCategorias.aspx.cs">
+      <DependentUpon>FormularioCategorias.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="formulario1.aspx.designer.cs">
-      <DependentUpon>formulario1.aspx</DependentUpon>
+    <Compile Include="FormularioCategorias.aspx.designer.cs">
+      <DependentUpon>FormularioCategorias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioCliente.aspx.cs">
+      <DependentUpon>FormularioCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormularioCliente.aspx.designer.cs">
+      <DependentUpon>FormularioCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioFactura.aspx.cs">
+      <DependentUpon>FormularioFactura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormularioFactura.aspx.designer.cs">
+      <DependentUpon>FormularioFactura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioProductos.aspx.cs">
+      <DependentUpon>FormularioProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormularioProductos.aspx.designer.cs">
+      <DependentUpon>FormularioProductos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -88,6 +112,16 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{e99bbf36-b2d0-491f-b3bf-6b3ada22bcf1}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
+      <Project>{c8d1118f-e57d-462d-a355-7508e9ccd874}</Project>
+      <Name>CapaNegocios</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

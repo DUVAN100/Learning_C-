@@ -1,0 +1,2 @@
+E:\GIT HUB\CESDE_C-\CAPAS__\BDHOSPITAL\BDHOSPITAL\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+E:\GIT HUB\CESDE_C-\CAPAS__\BDHOSPITAL\BDHOSPITAL\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache

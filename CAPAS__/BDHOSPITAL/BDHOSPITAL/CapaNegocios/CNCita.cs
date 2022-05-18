@@ -13,16 +13,20 @@ namespace CapaNegocios
         CDCita odatcita = new CDCita();
         public bool guardar_cita(CECita oencita)
         {
-            return odatcita.guardar_cita (oencita);
-        
+            return odatcita.guardar_cita(oencita);
+
         }
-        public DataSet consultar_cita(CECita oencita) 
+        public DataSet consultar_cita(CECita oencita)
         {
             return odatcita.consultar_cita(oencita);
         }
-        public bool anular_cita(CECita oencita) 
+        public bool anular_cita(CECita oencita)
         {
             return odatcita.anular_cita(oencita);
+        }
+        public bool actualizar_cita(CECita oencita) 
+        {
+            return odatcita.actualizar_cita(oencita);
         }
     }
 }

@@ -8,7 +8,7 @@ using CapaDatos;
 using System.Data;
 namespace CapaNegocios
 {
-    class CNCliente
+    public class CNCliente
     {
         CDCliente odaclientes = new CDCliente();
         public bool guardar_cliente(CECleinte oencliente) 
