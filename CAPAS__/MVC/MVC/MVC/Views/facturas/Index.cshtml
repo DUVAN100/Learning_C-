@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MVC.Models.factura>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Facturas</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<body style="background-image:url("https://static7.depositphotos.com/1014838/684/i/950/depositphotos_6849440-stock-photo-different-tools.jpg")">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fecha_factura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.num_productos)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fecha_factura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.num_productos)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.cod_factura }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.cod_factura }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.cod_factura })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>

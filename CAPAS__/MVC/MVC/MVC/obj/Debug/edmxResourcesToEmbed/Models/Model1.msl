@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ventasModelStoreContainer" CdmEntityContainer="ventasEntities">
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="ventasModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="Cod_cliente" ColumnName="Cod_cliente" />
+          <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
+          <ScalarProperty Name="cell_cliente" ColumnName="cell_cliente" />
+          <ScalarProperty Name="gmail_cliente" ColumnName="gmail_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="factura">
+      <EntityTypeMapping TypeName="ventasModel.factura">
+        <MappingFragment StoreEntitySet="factura">
+          <ScalarProperty Name="cod_factura" ColumnName="cod_factura" />
+          <ScalarProperty Name="fecha_factura" ColumnName="fecha_factura" />
+          <ScalarProperty Name="num_productos" ColumnName="num_productos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="producto">
+      <EntityTypeMapping TypeName="ventasModel.producto">
+        <MappingFragment StoreEntitySet="producto">
+          <ScalarProperty Name="cod_producto" ColumnName="cod_producto" />
+          <ScalarProperty Name="nom_producto" ColumnName="nom_producto" />
+          <ScalarProperty Name="valor_producto" ColumnName="valor_producto" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

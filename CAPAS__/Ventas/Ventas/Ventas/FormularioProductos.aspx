@@ -61,7 +61,7 @@
                     <asp:TextBox ID="txtnom_product" class="form-control" runat="server" ></asp:TextBox>
                 </td>
                 <td>
-                    <asp:Button ID="txtactualizar_producto" class="btn btn-primary" runat="server" OnClick="txtactualizar_producto_Click" Text="ACTUALIZAR" />
+                    <asp:Button ID="txtactualizar_producto" class="btn btn-primary" runat="server" OnClick="txtactualizar_producto_Click" Text="ACTUALIZAR PANTALLA" BorderColor="#66FF33" BorderStyle="Inset" />
                 </td>
                 <td>&nbsp;</td>
             </tr>

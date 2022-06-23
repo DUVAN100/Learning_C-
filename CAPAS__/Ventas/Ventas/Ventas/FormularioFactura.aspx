@@ -50,7 +50,7 @@
                     <asp:TextBox ID="txtinvoicedate" class="form-control" runat="server"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:Button ID="actualizar_factura"  class="btn btn-primary" runat="server" OnClick="actualizar_factura_Click" Text="ACTUALIZAR" />
+                    <asp:Button ID="actualizar_factura"  class="btn btn-primary" runat="server" OnClick="actualizar_factura_Click" Text="ACTUALIZAR PANTALLA" BorderColor="#66FF33" BorderStyle="Inset" />
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -68,7 +68,7 @@
                     <asp:TextBox ID="txtnumberproducts" class="form-control" runat="server"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:Button ID="elimnar_factura" class="btn btn-primary"  runat="server" OnClick="elimnar_factura_Click" Text="ELIMINAR" />
+                    <asp:Button ID="elimnar_factura" class="btn btn-primary"  runat="server" OnClick="elimnar_factura_Click" Text="ELIMINAR" BorderColor="#66FF33" BorderStyle="Inset" />
                 </td>
                 <td>&nbsp;</td>
             </tr>

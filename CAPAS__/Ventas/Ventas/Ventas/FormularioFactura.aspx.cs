@@ -36,7 +36,9 @@ namespace Ventas
 
         protected void actualizar_factura_Click(object sender, EventArgs e)
         {
-
+            txtnumberinvoice.Text = " ";
+            txtinvoicedate.Text = "";
+            txtnumberproducts.Text = " ";
         }
         protected void elimnar_factura_Click(object sender, EventArgs e)
         {

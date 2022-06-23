@@ -1,0 +1,248 @@
+﻿++Solución "MVC" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:MVC.sln
+++MVC
+i:{00000000-0000-0000-0000-000000000000}:MVC
+++Properties
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\properties\
+++Referencias
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++App_Data
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\app_data\
+++App_Start
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\app_start\
+++Content
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\
+++Controllers
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\controllers\
+++ClientesController.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\controllers\clientescontroller.cs
+++facturasController.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\controllers\facturascontroller.cs
+++HomeController.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\controllers\homecontroller.cs
+++productoesController.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\controllers\productoescontroller.cs
+++fonts
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\fonts\
+++Models
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\
+++Model1.edmx
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.edmx
+++Model1.Context.tt
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.context.tt
+++Model1.Context.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.context.cs
+++Model1.Designer.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.designer.cs
+++Model1.edmx.diagram
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.edmx.diagram
+++Model1.tt
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.tt
+++Cliente.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\cliente.cs
+++factura.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\factura.cs
+++Model1.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\model1.cs
+++producto.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\models\producto.cs
+++Scripts
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\
+++bootstrap.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\bootstrap.js
+++bootstrap.min.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\scripts\modernizr-2.8.3.js
+++Views
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\
+++Clientes
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\clientes\
+++Create.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\clientes\create.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\productoes\create.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\facturas\create.cshtml
+++Delete.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\clientes\delete.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\productoes\delete.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\facturas\delete.cshtml
+++Details.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\clientes\details.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\productoes\details.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\facturas\details.cshtml
+++Edit.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\clientes\edit.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\productoes\edit.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\facturas\edit.cshtml
+++Index.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\clientes\index.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\home\index.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\productoes\index.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\facturas\index.cshtml
+++facturas
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\facturas\
+++Home
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\home\
+++About.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\home\about.cshtml
+++Contact.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\home\contact.cshtml
+++productoes
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\productoes\
+++Shared
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\shared\
+++_Layout.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\shared\_layout.cshtml
+++Error.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\_viewstart.cshtml
+++Web.config
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\views\web.config
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\web.config
+++favicon.ico
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\favicon.ico
+++Global.asax
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\global.asax
+++packages.config
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\packages.config
+++AssemblyInfo.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++EntityFramework
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++EntityFramework.SqlServer
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++Microsoft.CSharp
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++Microsoft.Web.Infrastructure
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++Newtonsoft.Json
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.ComponentModel.DataAnnotations
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Configuration
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Core
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Data
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Data.DataSetExtensions
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Drawing
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.EnterpriseServices
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Net.Http
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Net.Http.WebRequest
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Runtime.Serialization
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Security
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Abstractions
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.ApplicationServices
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.DynamicData
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Entity
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Extensions
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Helpers
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Mvc
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Optimization
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Razor
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Routing
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.Services
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.WebPages
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.WebPages.Deployment
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Web.WebPages.Razor
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Xml
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++System.Xml.Linq
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++WebGrease
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:
+++BundleConfig.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\app_start\routeconfig.cs
+++bootstrap-theme.css
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap.css
+++bootstrap.css.map
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap.css.map
+++bootstrap.min.css
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\bootstrap.min.css.map
+++Site.css
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\content\site.css
+++glyphicons-halflings-regular.eot
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\fonts\glyphicons-halflings-regular.woff2
+++Global.asax.cs
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\global.asax.cs
+++Web.Debug.config
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\web.debug.config
+++Web.Release.config
+i:{c8ec42f6-d5f4-433b-bd26-fa99f50cf8c3}:e:\git hub\cesde_c-\capas__\mvc\mvc\mvc\web.release.config

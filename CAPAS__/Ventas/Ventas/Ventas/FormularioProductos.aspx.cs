@@ -37,7 +37,10 @@ namespace Ventas
 
         protected void txtactualizar_producto_Click(object sender, EventArgs e)
         {
-
+            txtcod_product.Text = " ";
+            txtnom_product.Text = " ";
+            txtvalue_product.Text = " ";
+            txtamout_product.Text = " ";
         }
 
         protected void eliminar_producto_Click(object sender, EventArgs e)

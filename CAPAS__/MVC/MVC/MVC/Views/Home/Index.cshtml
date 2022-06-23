@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div>
+    <Body>
+        <div class="jumbotron" style='background-image:url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png")'>
+            <h1 class="text-muted">CRUD CESDE</h1>
+        </div>
+        <div>
+            <div class="row">
+                <div class="col-md-4">
+                    <a class="btn btn-secondary active" href="@Url.Action("Index", "Clientes")">Clientes</a>
+                    <a class="btn btn-secondary active" href="@Url.Action("Index", "facturas")">Facturas</a>
+                    <a class="btn btn-secondary active" href="@Url.Action("Index", "productoes")">Productos</a>
+
+                </div>
+            </div>
+        </div>
+    </Body>
+</div>

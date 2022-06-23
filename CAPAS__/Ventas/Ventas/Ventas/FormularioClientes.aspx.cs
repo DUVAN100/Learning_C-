@@ -39,6 +39,9 @@ namespace Ventas
         protected void actualizar_cliente_Click(object sender, EventArgs e)
         {
             txtcod_cliente.Text = " ";
+            txtnom_cliente.Text  = " ";
+            txtcell_cliente.Text  = " ";
+            txtgmail.Text = " ";
         }
 
         protected void eliminar_cliente_Click(object sender, EventArgs e)
@@ -71,5 +74,7 @@ namespace Ventas
                 txtgmail.Text = ds.Tables[0].Rows[0]["Gmail_cliente"].ToString();
             }
         }
+
+
     }
 }   

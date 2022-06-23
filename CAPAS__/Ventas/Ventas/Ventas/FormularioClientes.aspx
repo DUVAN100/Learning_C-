@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FormularioClientes.aspx.cs" Inherits="Ventas.FormularioClientes" %>
+﻿
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="FormularioClientes.aspx.cs" Inherits="Ventas.FormularioClientes" %>
 
 <!DOCTYPE html>
 
@@ -58,7 +59,7 @@
                 </td>
                 <td>&nbsp;</td>
                 <td>
-                    <asp:Button ID="actualizar_cliente" runat="server" class="btn btn-primary" BorderColor="#66FF33" BorderStyle="Inset" OnClick="actualizar_cliente_Click" Text="ACTUALIZAR" />
+                    <asp:Button ID="actualizar_cliente" runat="server" class="btn btn-primary" BorderColor="#66FF33" BorderStyle="Inset" OnClick="actualizar_cliente_Click" Text="ACTUALIZAR PANTALLA" />
                 </td>
             </tr>
             <tr>
@@ -95,14 +96,14 @@
                 <td>&nbsp;</td>
                 <td>
                     <asp:Button ID="consultar_cliente" runat="server" class="btn btn-primary" BorderColor="#99FF33" BorderStyle="Inset" OnClick="consultar_cliente_Click" Text="CONSLTAR" />
-                    {--3<br />
+                    <br />
                     .</td>
             </tr>
             <tr>
                 <td class="auto-style2"></td>
                 <td class="auto-style2"></td>
                 <td class="auto-style2"></td>
-                <td class="auto-style2"></td>
+                <td class="auto-style2">&nbsp;</td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
