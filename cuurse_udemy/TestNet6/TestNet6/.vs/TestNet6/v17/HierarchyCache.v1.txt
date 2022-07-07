@@ -1,0 +1,221 @@
+﻿++Solución "TestNet6" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:TestNet6.sln
+++TestNet6
+i:{00000000-0000-0000-0000-000000000000}:TestNet6
+++Connected Services 
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:>195
+++Dependencias
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:>194
+++Properties
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\properties\
+++wwwroot
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\
+++css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\css\
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\css\site.css
+++js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\js\
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\js\site.js
+++lib
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\
+++bootstrap
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\
+++jquery
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery\
+++jquery-validation
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\favicon.ico
+++Controllers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\controllers\
+++HomeController.cs
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\controllers\homecontroller.cs
+++Models
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\models\
+++Views
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\
+++Home
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\home\
+++Index.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\home\index.cshtml
+++Privacy.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\home\privacy.cshtml
+++Shared
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\shared\
+++_ViewImports.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\_viewstart.cshtml
+++appsettings.json
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\appsettings.json
+++appsettings.Development.json
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\appsettings.development.json
+++Program.cs
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\program.cs
+++No se detectaron dependencias de servicio
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:>196
+++Analizadores
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:analizadores
+++Marcos de trabajo
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:marcos de trabajo
+++launchSettings.json
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\properties\launchsettings.json
+++dist
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery\dist\
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery\license.txt
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++ErrorViewModel.cs
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\models\errorviewmodel.cs
+++_Layout.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\shared\error.cshtml
+++Microsoft.AspNetCore.Analyzers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\microsoft.netcore.app
+++jquery.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++_Layout.cshtml.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\views\shared\_layout.cshtml.css
+++bootstrap.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{e667bf29-326d-4671-82d7-7c1aae52b91c}:e:\git hub\cesde_c-\cuurse_udemy\testnet6\testnet6\testnet6\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
