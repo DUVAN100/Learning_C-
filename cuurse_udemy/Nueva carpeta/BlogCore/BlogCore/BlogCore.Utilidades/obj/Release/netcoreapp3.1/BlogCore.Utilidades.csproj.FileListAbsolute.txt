@@ -1,0 +1,8 @@
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\bin\Release\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\bin\Release\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\bin\Release\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Release\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Release\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Release\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Release\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Release\netcoreapp3.1\BlogCore.Utilidades.pdb
