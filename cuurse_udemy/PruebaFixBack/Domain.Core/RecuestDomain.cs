@@ -21,7 +21,7 @@ namespace Domain.Core
                 await _recuestRepository.AddAsync(airline);
                 return true;
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return false;
             }

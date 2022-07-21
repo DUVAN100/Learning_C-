@@ -9,6 +9,7 @@ namespace Mapper
         public MappingsProfile()
         {
             CreateMap<Recuest, RecuestDto>().ReverseMap();
+            CreateMap<User, UserDto>().ReverseMap();
         }
     }
 }

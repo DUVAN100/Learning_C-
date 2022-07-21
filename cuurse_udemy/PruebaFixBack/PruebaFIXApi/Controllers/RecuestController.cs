@@ -7,9 +7,12 @@ namespace WebApplication1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //this class is para do thes recuests
     public class RecuestController : Controller
     {
         private readonly IRecuestApplication _recuestApplication;
+        //injection
+
         public RecuestController(IRecuestApplication recuestApplication)
         {
             _recuestApplication = recuestApplication;
