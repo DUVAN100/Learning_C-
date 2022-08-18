@@ -1,0 +1,13 @@
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.csprojAssemblyReference.cache
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.AssemblyInfoInputs.cache
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.AssemblyInfo.cs
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.csproj.CoreCompileInputs.cache
+C:\practicas_1\c#\finally\bin\Debug\netcoreapp3.1\finally.exe
+C:\practicas_1\c#\finally\bin\Debug\netcoreapp3.1\finally.deps.json
+C:\practicas_1\c#\finally\bin\Debug\netcoreapp3.1\finally.runtimeconfig.json
+C:\practicas_1\c#\finally\bin\Debug\netcoreapp3.1\finally.runtimeconfig.dev.json
+C:\practicas_1\c#\finally\bin\Debug\netcoreapp3.1\finally.dll
+C:\practicas_1\c#\finally\bin\Debug\netcoreapp3.1\finally.pdb
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.dll
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.pdb
+C:\practicas_1\c#\finally\obj\Debug\netcoreapp3.1\finally.genruntimeconfig.cache

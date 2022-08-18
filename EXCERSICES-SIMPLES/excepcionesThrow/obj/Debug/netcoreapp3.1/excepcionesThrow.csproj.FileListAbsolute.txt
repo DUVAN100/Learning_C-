@@ -1,0 +1,13 @@
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.csprojAssemblyReference.cache
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.AssemblyInfoInputs.cache
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.AssemblyInfo.cs
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.csproj.CoreCompileInputs.cache
+C:\practicas_1\c#\excepcionesThrow\bin\Debug\netcoreapp3.1\excepcionesThrow.exe
+C:\practicas_1\c#\excepcionesThrow\bin\Debug\netcoreapp3.1\excepcionesThrow.deps.json
+C:\practicas_1\c#\excepcionesThrow\bin\Debug\netcoreapp3.1\excepcionesThrow.runtimeconfig.json
+C:\practicas_1\c#\excepcionesThrow\bin\Debug\netcoreapp3.1\excepcionesThrow.runtimeconfig.dev.json
+C:\practicas_1\c#\excepcionesThrow\bin\Debug\netcoreapp3.1\excepcionesThrow.dll
+C:\practicas_1\c#\excepcionesThrow\bin\Debug\netcoreapp3.1\excepcionesThrow.pdb
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.dll
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.pdb
+C:\practicas_1\c#\excepcionesThrow\obj\Debug\netcoreapp3.1\excepcionesThrow.genruntimeconfig.cache

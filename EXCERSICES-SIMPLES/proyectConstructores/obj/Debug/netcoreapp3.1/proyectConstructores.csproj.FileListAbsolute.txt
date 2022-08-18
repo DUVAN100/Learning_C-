@@ -1,0 +1,13 @@
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.AssemblyInfoInputs.cache
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.AssemblyInfo.cs
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.csproj.CoreCompileInputs.cache
+C:\practicas_1\c#\proyectConstructores\bin\Debug\netcoreapp3.1\proyectConstructores.exe
+C:\practicas_1\c#\proyectConstructores\bin\Debug\netcoreapp3.1\proyectConstructores.deps.json
+C:\practicas_1\c#\proyectConstructores\bin\Debug\netcoreapp3.1\proyectConstructores.runtimeconfig.json
+C:\practicas_1\c#\proyectConstructores\bin\Debug\netcoreapp3.1\proyectConstructores.runtimeconfig.dev.json
+C:\practicas_1\c#\proyectConstructores\bin\Debug\netcoreapp3.1\proyectConstructores.dll
+C:\practicas_1\c#\proyectConstructores\bin\Debug\netcoreapp3.1\proyectConstructores.pdb
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.dll
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.pdb
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.genruntimeconfig.cache
+C:\practicas_1\c#\proyectConstructores\obj\Debug\netcoreapp3.1\proyectConstructores.csprojAssemblyReference.cache
